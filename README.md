@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-37-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-38-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -38,6 +38,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2342. | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | [Python](Medium/Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits.py) |
 | 2364. | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium | [Python](Medium/Count%20Number%20of%20Bad%20Pairs.py) |
 | 2381. | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | Medium | [Python](Medium/Shifting%20Letters%20II.py) |
+| 2460. | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | [Python](Easy/Apply%20Operations%20to%20an%20Array.py) |
 | 2559. | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | Easy | [Python](Easy/Count%20Vowel%20Strings%20in%20Ranges.py) |
 | 2657. | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium | [Python](Medium/Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.py) |
 | 2661. | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | Medium | [Python](Medium/First%20Completely%20Painted%20Row%20or%20Column.py) |
