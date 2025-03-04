@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-40-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-41-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -26,6 +26,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1749. | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | [Python](Medium/Maximum%20Absolute%20Sum%20of%20Any%20Subarray.py) |
 | 1752. | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | [Python](Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py) |
 | 1769. | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium | [Python](Medium/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.py) |
+| 1780. | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium | [Python](Medium/Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.py) |
 | 1790. | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy | [Python](Easy/Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py) |
 | 1800. | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy | [Python](Easy/Maximum%20Ascending%20Subarray%20Sum.py) |
 | 1910. | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | [Python](Medium/Remove%20All%20Occurrences%20of%20a%20Substring.py) |
