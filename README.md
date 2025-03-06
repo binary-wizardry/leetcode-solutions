@@ -50,7 +50,6 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3042. | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Easy | [Python](Easy/Count%20Prefix%20and%20Suffix%20Pairs%20I.py) |
 | 3066. | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | Medium | [Python](Medium/Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.py) |
 | 3105. | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | [Python](Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.py) |
-
 | 3151. | [Special Array I](https://leetcode.com/problems/special-array-i/) | Easy | [Python](Easy/Special%20Array%20I.py) |
 | 3160. | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | Medium | [Python](Medium/Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls.py) |
 | 3174. | [Clear Digits](https://leetcode.com/problems/clear-digits/) | Easy | [Python](Easy/Clear%20Digits.py) |
