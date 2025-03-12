@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-45-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-46-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -43,6 +43,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2381. | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | Medium | [Python](Medium/Shifting%20Letters%20II.py) |
 | 2460. | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | [Python](Easy/Apply%20Operations%20to%20an%20Array.py) |
 | 2523. | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium | [Python](Medium/Closest%20Prime%20Numbers%20in%20Range.py) |
+| 2529. | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Easy | [Python](Easy/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py) |
 | 2559. | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | Easy | [Python](Easy/Count%20Vowel%20Strings%20in%20Ranges.py) |
 | 2570. | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | Easy | [Python](Easy/Merge%20Two%202D%20Arrays%20by%20Summing%20Values.py) |
 | 2579. | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | Medium | [Python](Medium/Count%20Total%20Number%20of%20Colored%20Cells.py) |
