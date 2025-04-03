@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-50-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-51-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -53,6 +53,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2661. | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | Medium | [Python](Medium/First%20Completely%20Painted%20Row%20or%20Column.py) |
 | 2780. | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | Medium | [Python](Medium/Minimum%20Index%20of%20a%20Valid%20Split.py) |
 | 2873. | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | Easy | [Python](Easy/Maximum%20Value%20of%20an%20Ordered%20Triplet%20I.py) |
+| 2874. | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | Medium | [Python](Medium/Maximum%20Value%20of%20an%20Ordered%20Triplet%20II.py) |
 | 2965. | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | [Python](Easy/Find%20Missing%20and%20Repeated%20Values.py) |
 | 3042. | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Easy | [Python](Easy/Count%20Prefix%20and%20Suffix%20Pairs%20I.py) |
 | 3066. | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | Medium | [Python](Medium/Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.py) |
