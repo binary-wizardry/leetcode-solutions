@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-66-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-67-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -28,6 +28,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1422. | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | [Python](Easy/Maximum%20Score%20After%20Splitting%20a%20String.py) |
 | 1480. | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Python](Easy/Running%20Sum%20of%201d%20Array.py) |
 | 1534. | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | [Python](Easy/Count%20Good%20Triplets.py) |
+| 1550. | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Python](Easy/Three%20Consecutive%20Odds.py) |
 | 1672. | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Python](Easy/Richest%20Customer%20Wealth.py) |
 | 1749. | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | [Python](Medium/Maximum%20Absolute%20Sum%20of%20Any%20Subarray.py) |
 | 1752. | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | [Python](Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py) |
