@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-67-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-68-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -42,6 +42,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1922. | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | [Python](Medium/Count%20Good%20Numbers.py) |
 | 1980. | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | [Python](Medium/Find%20Unique%20Binary%20String.py) |
 | 2017. | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium | [Python](Medium/Grid%20Game.py) |
+| 2094. | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | [Python](Easy/Finding%203-Digit%20Even%20Numbers.py) |
 | 2145. | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium | [Python](Medium/Count%20the%20Hidden%20Sequences.py) |
 | 2161. | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | [Python](Medium/Partition%20Array%20According%20to%20Given%20Pivot.py) |
 | 2176. | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy | [Python](Easy/Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.py) |
