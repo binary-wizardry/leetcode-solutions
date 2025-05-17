@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-69-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-70-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -13,6 +13,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 |---|---------|:----------:|:-------------:|
 | 1. | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](Easy/Two%20Sum.py) |
 | 38. | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Python](Medium/Count%20and%20Say.py) |
+| 75. | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Python](Medium/Sort%20Colors.py) |
 | 412. | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](Easy/Fizz%20Buzz.py) |
 | 763. | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | [Python](Medium/Partition%20Labels.py) |
 | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](Easy/Middle%20of%20the%20Linked%20List.py) |
