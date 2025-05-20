@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-71-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-72-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -79,6 +79,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3160. | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | Medium | [Python](Medium/Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls.py) |
 | 3174. | [Clear Digits](https://leetcode.com/problems/clear-digits/) | Easy | [Python](Easy/Clear%20Digits.py) |
 | 3223. | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | Medium | [Python](Medium/Minimum%20Length%20of%20String%20After%20Operations.py) |
+| 3355. | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | [Python](Medium/Zero%20Array%20Transformation%20I.py) |
 | 3375. | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | Easy | [Python](Easy/Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K.py) |
 | 3392. | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | [Python](Easy/Count%20Subarrays%20of%20Length%20Three%20With%20a%20Condition.py) |
 | 3396. | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy | [Python](Easy/Minimum%20Number%20of%20Operations%20to%20Make%20Elements%20in%20Array%20Distinct.py) |
