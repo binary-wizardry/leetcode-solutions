@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-75-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-76-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -70,6 +70,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2843. | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | Easy | [Python](Easy/Count%20Symmetric%20Integers.py) |
 | 2873. | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | Easy | [Python](Easy/Maximum%20Value%20of%20an%20Ordered%20Triplet%20I.py) |
 | 2874. | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | Medium | [Python](Medium/Maximum%20Value%20of%20an%20Ordered%20Triplet%20II.py) |
+| 2894. | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy | [Python](Easy/Divisible%20and%20Non-divisible%20Sums%20Difference.py) |
 | 2900. | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | Easy | [Python](Easy/Longest%20Unequal%20Adjacent%20Groups%20Subsequence%20I.py) |
 | 2918. | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium | [Python](Medium/Minimum%20Equal%20Sum%20of%20Two%20Arrays%20After%20Replacing%20Zeros.py) |
 | 2942. | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy | [Python](Easy/Find%20Words%20Containing%20Character.py) |
