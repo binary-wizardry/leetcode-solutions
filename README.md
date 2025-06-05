@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-79-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-80-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -20,6 +20,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 763. | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | [Python](Medium/Partition%20Labels.py) |
 | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](Easy/Middle%20of%20the%20Linked%20List.py) |
 | 916. | [Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium | [Python](Medium/Word%20Subsets.py) |
+| 1061. | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | [Python](Medium/Lexicographically%20Smallest%20Equivalent%20String.py) |
 | 1079. | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | [Python](Medium/Letter%20Tile%20Possibilities.py) |
 | 1128. | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | [Python](Easy/Number%20of%20Equivalent%20Domino%20Pairs.py) |
 | 1295. | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [Python](Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits.py) |
