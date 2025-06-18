@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-85-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-86-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -81,6 +81,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2929. | [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | [Python](Medium/Distribute%20Candies%20Among%20Children%20II.py) |
 | 2942. | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy | [Python](Easy/Find%20Words%20Containing%20Character.py) |
 | 2965. | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | [Python](Easy/Find%20Missing%20and%20Repeated%20Values.py) |
+| 2966. | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | [Python](Medium/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.py) |
 | 3024. | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | [Python](Easy/Type%20of%20Triangle.py) |
 | 3042. | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Easy | [Python](Easy/Count%20Prefix%20and%20Suffix%20Pairs%20I.py) |
 | 3066. | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | Medium | [Python](Medium/Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.py) |
