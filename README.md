@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-88-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-89-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -48,6 +48,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1980. | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | [Python](Medium/Find%20Unique%20Binary%20String.py) |
 | 2016. | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | [Python](Easy/Maximum%20Difference%20Between%20Increasing%20Elements.py) |
 | 2017. | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium | [Python](Medium/Grid%20Game.py) |
+| 2081. | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | Hard | [Python](Hard/Sum%20of%20k-Mirror%20Numbers.py) |
 | 2094. | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | [Python](Easy/Finding%203-Digit%20Even%20Numbers.py) |
 | 2131. | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [Python](Medium/Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.py) |
 | 2138. | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | Easy | [Python](Easy/Divide%20a%20String%20Into%20Groups%20of%20Size%20k.py) |
