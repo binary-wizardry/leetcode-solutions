@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-90-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-91-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -23,6 +23,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1061. | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | [Python](Medium/Lexicographically%20Smallest%20Equivalent%20String.py) |
 | 1079. | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | [Python](Medium/Letter%20Tile%20Possibilities.py) |
 | 1128. | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | [Python](Easy/Number%20of%20Equivalent%20Domino%20Pairs.py) |
+| 1290. | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [Python](Easy/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) |
 | 1295. | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [Python](Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits.py) |
 | 1342. | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [Python](Easy/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.py) |
 | 1352. | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | [Python](Medium/Product%20of%20the%20Last%20K%20Numbers.py) |
