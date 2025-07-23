@@ -38,6 +38,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1550. | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Python](Easy/Three%20Consecutive%20Odds.py) |
 | 1672. | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Python](Easy/Richest%20Customer%20Wealth.py) |
 | 1695. | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Medium | [Python](Medium/Maximum%20Erasure%20Value.py) |
+| 1717. | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Medium | [Python](Medium/Maximum%20Score%20From%20Removing%20Substrings.py) |
 | 1749. | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | [Python](Medium/Maximum%20Absolute%20Sum%20of%20Any%20Subarray.py) |
 | 1752. | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | [Python](Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py) |
 | 1769. | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium | [Python](Medium/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.py) |
