@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-99-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-100-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -72,6 +72,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2364. | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium | [Python](Medium/Count%20Number%20of%20Bad%20Pairs.py) |
 | 2379. | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | [Python](Easy/Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks.py) |
 | 2381. | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | Medium | [Python](Medium/Shifting%20Letters%20II.py) |
+| 2419. | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Medium | [Python](Medium/Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.py) |
 | 2460. | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | [Python](Easy/Apply%20Operations%20to%20an%20Array.py) |
 | 2523. | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium | [Python](Medium/Closest%20Prime%20Numbers%20in%20Range.py) |
 | 2529. | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Easy | [Python](Easy/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py) |
