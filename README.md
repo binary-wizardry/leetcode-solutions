@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-107-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-108-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -71,6 +71,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2206. | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | [Python](Easy/Divide%20Array%20Into%20Equal%20Pairs.py) |
 | 2235. | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [Python](Easy/Add%20Two%20Integers.py) |
 | 2236. | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | Easy | [Python](Easy/Root%20Equals%20Sum%20of%20Children.py) |
+| 2264. | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Easy | [Python](Easy/Largest%203-Same-Digit%20Number%20in%20String.py) |
 | 2270. | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | Medium | [Python](Medium/Number%20of%20Ways%20to%20Split%20Array.py) |
 | 2294. | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | Medium | [Python](Medium/Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.py) |
 | 2342. | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | [Python](Medium/Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits.py) |
