@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-109-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-110-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -32,6 +32,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1233. | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Medium | [Python](Medium/Remove%20Sub-Folders%20from%20the%20Filesystem.py) |
 | 1290. | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [Python](Easy/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) |
 | 1295. | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [Python](Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits.py) |
+| 1323. | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | [Python](Easy/Maximum%2069%20Number.py) |
 | 1342. | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [Python](Easy/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.py) |
 | 1352. | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | [Python](Medium/Product%20of%20the%20Last%20K%20Numbers.py) |
 | 1399. | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | [Python](Easy/Count%20Largest%20Group.py) |
