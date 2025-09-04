@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-118-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-119-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -129,3 +129,4 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3446. | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | Medium | [Python](Medium/Sort%20Matrix%20by%20Diagonals.py) |
 | 3477. | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | Easy | [Python](Easy/Fruits%20Into%20Baskets%20II.py) |
 | 3487. | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | Easy | [Python](Easy/Maximum%20Unique%20Subarray%20Sum%20After%20Deletion.py) |
+| 3516. | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | Easy | [Python](Easy/Find%20Closest%20Person.py) |
