@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-126-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-127-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -76,6 +76,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2161. | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | [Python](Medium/Partition%20Array%20According%20to%20Given%20Pivot.py) |
 | 2176. | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy | [Python](Easy/Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.py) |
 | 2185. | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | Easy | [Python](Easy/Counting%20Words%20With%20a%20Given%20Prefix.py) |
+| 2197. | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | Hard | [Python](Hard/Replace%20Non-Coprime%20Numbers%20in%20Array.py) |
 | 2200. | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | Easy | [Python](Easy/Find%20All%20K-Distant%20Indices%20in%20an%20Array.py) |
 | 2206. | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | [Python](Easy/Divide%20Array%20Into%20Equal%20Pairs.py) |
 | 2235. | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [Python](Easy/Add%20Two%20Integers.py) |
