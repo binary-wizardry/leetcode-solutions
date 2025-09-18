@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-128-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-129-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -132,6 +132,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3392. | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | [Python](Easy/Count%20Subarrays%20of%20Length%20Three%20With%20a%20Condition.py) |
 | 3396. | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy | [Python](Easy/Minimum%20Number%20of%20Operations%20to%20Make%20Elements%20in%20Array%20Distinct.py) |
 | 3403. | [Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | [Python](Medium/Find%20the%20Lexicographically%20Largest%20String%20From%20the%20Box%20I.py) |
+| 3408. | [Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | [Python](Medium/Design%20Task%20Manager.py) |
 | 3423. | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy | [Python](Easy/Maximum%20Difference%20Between%20Adjacent%20Elements%20in%20a%20Circular%20Array.py) |
 | 3442. | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | Easy | [Python](Easy/Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I.py) |
 | 3446. | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | Medium | [Python](Medium/Sort%20Matrix%20by%20Diagonals.py) |
