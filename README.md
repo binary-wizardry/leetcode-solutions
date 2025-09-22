@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-131-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-132-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -114,6 +114,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2965. | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | [Python](Easy/Find%20Missing%20and%20Repeated%20Values.py) |
 | 2966. | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | [Python](Medium/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.py) |
 | 3000. | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | Easy | [Python](Easy/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.py) |
+| 3005. | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | [Python](Easy/Count%20Elements%20With%20Maximum%20Frequency.py) |
 | 3021. | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | Medium | [Python](Medium/Alice%20and%20Bob%20Playing%20Flower%20Game.py) |
 | 3024. | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | [Python](Easy/Type%20of%20Triangle.py) |
 | 3042. | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Easy | [Python](Easy/Count%20Prefix%20and%20Suffix%20Pairs%20I.py) |
