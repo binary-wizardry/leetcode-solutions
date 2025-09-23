@@ -18,6 +18,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 75. | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Python](Medium/Sort%20Colors.py) |
 | 118. | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Python](Easy/Pascal's%20Triangle.py) |
 | 135. | [Candy](https://leetcode.com/problems/candy/) | Hard | [Python](Hard/Candy.py) |
+| 165. | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](Medium/Compare%20Version%20Numbers.py) |
 | 231. | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Python](Easy/Power%20of%20Two.py) |
 | 326. | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [Python](Easy/Power%20of%20Three.py) |
 | 342. | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](Easy/Power%20of%20Four.py) |
