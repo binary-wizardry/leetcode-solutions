@@ -27,6 +27,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 498. | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | Medium | [Python](Medium/Diagonal%20Traverse.py) |
 | 611. | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | [Python](Medium/Valid%20Triangle%20Number.py) |
 | 763. | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | [Python](Medium/Partition%20Labels.py) |
+| 812. | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | [Python](Easy/Largest%20Triangle%20Area.py) |
 | 869. | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | Medium | [Python](Medium/Reordered%20Power%20of%202.py) |
 | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](Easy/Middle%20of%20the%20Linked%20List.py) |
 | 904. | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](Medium/Fruit%20Into%20Baskets.py) |
