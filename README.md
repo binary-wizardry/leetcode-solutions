@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-145-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-146-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -72,6 +72,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1935. | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | [Python](Easy/Maximum%20Number%20of%20Words%20You%20Can%20Type.py) |
 | 1957. | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy | [Python](Easy/Delete%20Characters%20to%20Make%20Fancy%20String.py) |
 | 1980. | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | [Python](Medium/Find%20Unique%20Binary%20String.py) |
+| 2011. | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy | [Python](Easy/Final%20Value%20of%20Variable%20After%20Performing%20Operations.py) |
 | 2016. | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | [Python](Easy/Maximum%20Difference%20Between%20Increasing%20Elements.py) |
 | 2017. | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium | [Python](Medium/Grid%20Game.py) |
 | 2044. | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | [Python](Medium/Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets.py) |
