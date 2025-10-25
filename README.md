@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-148-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-149-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -58,6 +58,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1550. | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Python](Easy/Three%20Consecutive%20Odds.py) |
 | 1672. | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Python](Easy/Richest%20Customer%20Wealth.py) |
 | 1695. | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Medium | [Python](Medium/Maximum%20Erasure%20Value.py) |
+| 1716. | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | [Python](Easy/Calculate%20Money%20in%20Leetcode%20Bank.py) |
 | 1717. | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Medium | [Python](Medium/Maximum%20Score%20From%20Removing%20Substrings.py) |
 | 1749. | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | [Python](Medium/Maximum%20Absolute%20Sum%20of%20Any%20Subarray.py) |
 | 1752. | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | [Python](Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py) |
