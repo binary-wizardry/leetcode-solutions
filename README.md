@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-152-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-153-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -146,6 +146,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3201. | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | Medium | [Python](Medium/Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I.py) |
 | 3223. | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | Medium | [Python](Medium/Minimum%20Length%20of%20String%20After%20Operations.py) |
 | 3227. | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | [Python](Medium/Vowels%20Game%20in%20a%20String.py) |
+| 3289. | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | Easy | [Python](Easy/The%20Two%20Sneaky%20Numbers%20of%20Digitville.py) |
 | 3355. | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | [Python](Medium/Zero%20Array%20Transformation%20I.py) |
 | 3370. | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Easy | [Python](Easy/Smallest%20Number%20With%20All%20Set%20Bits.py) |
 | 3375. | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | Easy | [Python](Easy/Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K.py) |
