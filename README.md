@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-170-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-171-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -88,6 +88,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2048. | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | Medium | [Python](Medium/Next%20Greater%20Numerically%20Balanced%20Number.py) |
 | 2081. | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | Hard | [Python](Hard/Sum%20of%20k-Mirror%20Numbers.py) |
 | 2094. | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | [Python](Easy/Finding%203-Digit%20Even%20Numbers.py) |
+| 2110. | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | Medium | [Python](Medium/Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock.py) |
 | 2125. | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | [Python](Medium/Number%20of%20Laser%20Beams%20in%20a%20Bank.py) |
 | 2131. | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [Python](Medium/Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.py) |
 | 2138. | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | Easy | [Python](Easy/Divide%20a%20String%20Into%20Groups%20of%20Size%20k.py) |
