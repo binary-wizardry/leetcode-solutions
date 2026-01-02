@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-175-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-176-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -36,6 +36,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 904. | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](Medium/Fruit%20Into%20Baskets.py) |
 | 916. | [Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium | [Python](Medium/Word%20Subsets.py) |
 | 944. | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | [Python](Easy/Delete%20Columns%20to%20Make%20Sorted.py) |
+| 961. | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | [Python](Easy/N-Repeated%20Element%20in%20Size%202N%20Array.py) |
 | 966. | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium | [Python](Medium/Vowel%20Spellchecker.py) |
 | 976. | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | [Python](Easy/Largest%20Perimeter%20Triangle.py) |
 | 1015. | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | Medium | [Python](Medium/Smallest%20Integer%20Divisible%20by%20K.py) |
