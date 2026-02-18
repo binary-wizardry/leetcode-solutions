@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-185-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-186-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -29,6 +29,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 412. | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](Easy/Fizz%20Buzz.py) |
 | 498. | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | Medium | [Python](Medium/Diagonal%20Traverse.py) |
 | 611. | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | [Python](Medium/Valid%20Triangle%20Number.py) |
+| 693. | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | [Python](Easy/Binary%20Number%20with%20Alternating%20Bits.py) |
 | 717. | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | Easy | [Python](Easy/1-bit%20and%202-bit%20Characters.py) |
 | 763. | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | [Python](Medium/Partition%20Labels.py) |
 | 812. | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | [Python](Easy/Largest%20Triangle%20Area.py) |
