@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-186-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-187-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -33,6 +33,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 717. | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | Easy | [Python](Easy/1-bit%20and%202-bit%20Characters.py) |
 | 763. | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | [Python](Medium/Partition%20Labels.py) |
 | 812. | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | [Python](Easy/Largest%20Triangle%20Area.py) |
+| 868. | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](Easy/Binary%20Gap.py) |
 | 869. | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | Medium | [Python](Medium/Reordered%20Power%20of%202.py) |
 | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](Easy/Middle%20of%20the%20Linked%20List.py) |
 | 904. | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](Medium/Fruit%20Into%20Baskets.py) |
