@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-206-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-207-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -105,6 +105,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2043. | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | Medium | [Python](Medium/Simple%20Bank%20System.py) |
 | 2044. | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | [Python](Medium/Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets.py) |
 | 2048. | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | Medium | [Python](Medium/Next%20Greater%20Numerically%20Balanced%20Number.py) |
+| 2069. | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | Medium | [Python](Medium/Walking%20Robot%20Simulation%20II.py) |
 | 2075. | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium | [Python](Medium/Decode%20the%20Slanted%20Ciphertext.py) |
 | 2081. | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | Hard | [Python](Hard/Sum%20of%20k-Mirror%20Numbers.py) |
 | 2094. | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | [Python](Easy/Finding%203-Digit%20Even%20Numbers.py) |
