@@ -90,7 +90,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1784. | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy | [Python](Easy/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.py) |
 | 1790. | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy | [Python](Easy/Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py) |
 | 1800. | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy | [Python](Easy/Maximum%20Ascending%20Subarray%20Sum.py) |
-| 1848. | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy | [Python](Easy/Minimum%20Distance%20to%20the%@0Target%20Element.py) |
+| 1848. | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy | [Python](Easy/Minimum%20Distance%20to%20the%20Target%20Element.py) |
 | 1863. | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Easy | [Python](Easy/Sum%20of%20All%20Subset%20XOR%20Totals.py) |
 | 1886. | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | [Python](Easy/Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.py) |
 | 1910. | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | [Python](Medium/Remove%20All%20Occurrences%20of%20a%20Substring.py) |
