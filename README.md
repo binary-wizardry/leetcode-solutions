@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-214-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-215-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -224,3 +224,4 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3740. | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | Easy | [Python](Easy/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py) |
 | 3741. | [Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | Medium | [Python](Medium/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py) |
 | 3761. | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Medium | [Python](Medium/Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py) |
+| 3783. | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy | [Python](Easy/Mirror%20Distance%20of%20an%20Integer.py) |
