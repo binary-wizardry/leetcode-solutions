@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-217-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-218-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -141,6 +141,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2381. | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | Medium | [Python](Medium/Shifting%20Letters%20II.py) |
 | 2419. | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Medium | [Python](Medium/Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.py) |
 | 2438. | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Medium | [Python](Medium/Range%20Product%20Queries%20of%20Powers.py) |
+| 2452. | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | Medium | [Python](Medium/Words%20Within%20Two%20Edits%20of%20Dictionary.py) |
 | 2460. | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | [Python](Easy/Apply%20Operations%20to%20an%20Array.py) |
 | 2515. | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | Easy | [Python](Easy/Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array.py) |
 | 2523. | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium | [Python](Medium/Closest%20Prime%20Numbers%20in%20Range.py) |
