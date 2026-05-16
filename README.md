@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-226-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-227-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -24,6 +24,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 120. | [Triangle](https://leetcode.com/problems/triangle/) | Medium | [Python](Medium/Triangle.py) |
 | 135. | [Candy](https://leetcode.com/problems/candy/) | Hard | [Python](Hard/Candy.py) |
 | 153. | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Python](Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
+| 154. | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | [Python](Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py) |
 | 165. | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](Medium/Compare%20Version%20Numbers.py) |
 | 190. | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [Python](Easy/Reverse%20Bits.py) |
 | 231. | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Python](Easy/Power%20of%20Two.py) |
