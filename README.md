@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-229-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-230-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -186,6 +186,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3021. | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | Medium | [Python](Medium/Alice%20and%20Bob%20Playing%20Flower%20Game.py) |
 | 3024. | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | [Python](Easy/Type%20of%20Triangle.py) |
 | 3042. | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Easy | [Python](Easy/Count%20Prefix%20and%20Suffix%20Pairs%20I.py) |
+| 3043. | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium | [Python](Medium/Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.py) |
 | 3066. | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | Medium | [Python](Medium/Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.py) |
 | 3074. | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | Easy | [Python](Easy/Apple%20Redistribution%20into%20Boxes.py) |
 | 3075. | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | Medium | [Python](Medium/Maximize%20Happiness%20of%20Selected%20Children.py) |
