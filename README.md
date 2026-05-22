@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-230-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-231-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -13,6 +13,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 |---|---------|:----------:|:-------------:|
 | 1. | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](Easy/Two%20Sum.py) |
 | 11. | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](Medium/Container%20With%20Most%20Water.py) |
+| 33. | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Python](Medium/Search%20in%20Rotated%20Sorted%20Array.py) |
 | 35. | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Python](Medium/Valid%20Sudoku.py) |
 | 38. | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Python](Medium/Count%20and%20Say.py) |
 | 48. | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Easy | [Python](Easy/Rotate%20Image.py) |
