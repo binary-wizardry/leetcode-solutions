@@ -206,7 +206,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3223. | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | Medium | [Python](Medium/Minimum%20Length%20of%20String%20After%20Operations.py) |
 | 3227. | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | [Python](Medium/Vowels%20Game%20in%20a%20String.py) |
 | 3289. | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | Easy | [Python](Easy/The%20Two%20Sneaky%20Numbers%20of%20Digitville.py) |
-| 3300. | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy | [Python](Easy/Minimum%20Element%20After%20Replacement%20With%@0Digit%20Sum.py) |
+| 3300. | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy | [Python](Easy/Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum.py) |
 | 3318. | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | Easy | [Python](Easy/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I.py) |
 | 3355. | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | [Python](Medium/Zero%20Array%20Transformation%20I.py) |
 | 3370. | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Easy | [Python](Easy/Smallest%20Number%20With%20All%20Set%20Bits.py) |
