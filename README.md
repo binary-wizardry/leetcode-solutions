@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-240-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-241-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -120,6 +120,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2078. | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | Easy | [Python](Easy/Two%20Furthest%20Houses%20With%20Different%20Colors.py) |
 | 2081. | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | Hard | [Python](Hard/Sum%20of%20k-Mirror%20Numbers.py) |
 | 2094. | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | [Python](Easy/Finding%203-Digit%20Even%20Numbers.py) |
+| 2095. | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | [Python](Medium/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py) |
 | 2110. | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | Medium | [Python](Medium/Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock.py) |
 | 2125. | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | [Python](Medium/Number%20of%20Laser%20Beams%20in%20a%20Bank.py) |
 | 2126. | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | Medium | [Python](Medium/Destroying%20Asteroids.py) |
