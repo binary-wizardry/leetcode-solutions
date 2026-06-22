@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-245-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-246-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -56,6 +56,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1061. | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | [Python](Medium/Lexicographically%20Smallest%20Equivalent%20String.py) |
 | 1079. | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | [Python](Medium/Letter%20Tile%20Possibilities.py) |
 | 1128. | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | [Python](Easy/Number%20of%20Equivalent%20Domino%20Pairs.py) |
+| 1189. | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | [Python](Easy/Maximum%20Number%20of%20Balloons.py) |
 | 1200. | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | [Python](Easy/Minimum%20Absolute%20Difference.py) |
 | 1233. | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Medium | [Python](Medium/Remove%20Sub-Folders%20from%20the%20Filesystem.py) |
 | 1266. | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | [Python](Easy/Minimum%20Time%20Visiting%20All%20Points.py) |
