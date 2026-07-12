@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-247-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-248-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -66,6 +66,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1306. | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | [Python](Medium/Jump%20Game%20III.py) |
 | 1317. | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy | [Python](Easy/Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.py) |
 | 1323. | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | [Python](Easy/Maximum%2069%20Number.py) |
+| 1331. | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | [Python](Easy/Rank%20Transform%20of%20an%20Array.py) |
 | 1342. | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [Python](Easy/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.py) |
 | 1344. | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Medium | [Python](Medium/Angle%20Between%20Hands%20of%20a%20Clock.py) |
 | 1352. | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | [Python](Medium/Product%20of%20the%20Last%20K%20Numbers.py) |
