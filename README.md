@@ -251,6 +251,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3637. | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | Easy | [Python](Easy/Trionic%20Array%20I.py) |
 | 3643. | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | Easy | [Python](Easy/Flip%20Square%20Submatrix%20Vertically.py) |
 | 3653. | [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | Medium | [Python](Medium/XOR%20After%20Range%20Multiplication%20Queries%20I.py) |
+| 3658. | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | [Python](Easy/GCD%20of%20Odd%20and%20Even%20Sums.py) |
 | 3689. | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | Medium | [Python](Medium/Maximum%20Total%20Subarray%20Value%20I.py) |
 | 3713. | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | [Python](Medium/Longest%20Balanced%20Substring%20I.py) |
 | 3719. | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | [Python](Medium/Longest%20Balanced%20Subarray%20I.py) |
