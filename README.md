@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-250-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-251-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -240,6 +240,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3488. | [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) | Medium | [Python](Medium/Closest%20Equal%20Element%20Queries.py) |
 | 3508. | [Implement Router](https://leetcode.com/problems/implement-router/) | Medium | [Python](Medium/Implement%20Router.py) |
 | 3516. | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | Easy | [Python](Easy/Find%20Closest%20Person.py) |
+| 3517. | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | [Python](Medium/Smallest%20Palindromic%20Rearrangement%20I.py) |
 | 3531. | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | Medium | [Python](Medium/Count%20Covered%20Buildings.py) |
 | 3541. | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | Easy | [Python](Easy/Find%20Most%20Frequent%20Vowel%20and%20Consonant.py) |
 | 3546. | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | [Python](Medium/Equal%20Sum%20Grid%20Partition%20I.py) |
