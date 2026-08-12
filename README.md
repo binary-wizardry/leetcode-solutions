@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-255-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-256-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -192,6 +192,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2929. | [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | [Python](Medium/Distribute%20Candies%20Among%20Children%20II.py) |
 | 2942. | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy | [Python](Easy/Find%20Words%20Containing%20Character.py) |
 | 2946. | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | Easy | [Python](Easy/Matrix%20Similarity%20After%20Cyclic%20Shifts.py) |
+| 2958. | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | [Python](Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py) |
 | 2965. | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | [Python](Easy/Find%20Missing%20and%20Repeated%20Values.py) |
 | 2966. | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | [Python](Medium/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.py) |
 | 2996. | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | [Python](Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum.py) |
