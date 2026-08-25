@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-259-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-260-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -263,6 +263,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3658. | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | [Python](Easy/GCD%20of%20Odd%20and%20Even%20Sums.py) |
 | 3689. | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | Medium | [Python](Medium/Maximum%20Total%20Subarray%20Value%20I.py) |
 | 3713. | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | [Python](Medium/Longest%20Balanced%20Substring%20I.py) |
+| 3718. | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | [Python](Easy/Smallest%20Missing%20Multiple%20of%20K.py) |
 | 3719. | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | [Python](Medium/Longest%20Balanced%20Subarray%20I.py) |
 | 3731. | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | [Python](Easy/Find%20Missing%20Elements.py) |
 | 3740. | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | Easy | [Python](Easy/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py) |
