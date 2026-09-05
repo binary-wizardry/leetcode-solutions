@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-263-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-264-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -274,4 +274,4 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3838. | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Easy | [Python](Easy/Weighted%20Word%20Mapping.py) |
 | 3875. | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | [Python](Easy/Construct%20Uniform%20Parity%20Array%20I.py) |
 | 3903. | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | [Python](Easy/Smallest%20Stable%20Index%20I.py) |
-
+| 3904. | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | [Python](Medium/Smallest%20Stable%20Index%20II.py) |
