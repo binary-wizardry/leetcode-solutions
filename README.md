@@ -103,7 +103,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1784. | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy | [Python](Easy/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.py) |
 | 1790. | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy | [Python](Easy/Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py) |
 | 1800. | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy | [Python](Easy/Maximum%20Ascending%20Subarray%20Sum.py) |
-| 1807. | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | [Python](Medium/Evaluate%20the%20Bracket%20Pairs%20of%@0a%20String.py) |
+| 1807. | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | [Python](Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String.py) |
 | 1833. | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | [Python](Medium/Maximum%20Ice%20Cream%20Bars.py) |
 | 1848. | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy | [Python](Easy/Minimum%20Distance%20to%20the%20Target%20Element.py) |
 | 1855. | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | Medium | [Python](Medium/Maximum%20Distance%20Between%20a%20Pair%20of%20Values.py) |
