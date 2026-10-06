@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-272-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-273-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -49,6 +49,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](Easy/Middle%20of%20the%20Linked%20List.py) |
 | 904. | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](Medium/Fruit%20Into%20Baskets.py) |
 | 916. | [Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium | [Python](Medium/Word%20Subsets.py) |
+| 921. | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | [Python](Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid.py) |
 | 944. | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | [Python](Easy/Delete%20Columns%20to%20Make%20Sorted.py) |
 | 961. | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | [Python](Easy/N-Repeated%20Element%20in%20Size%202N%20Array.py) |
 | 966. | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium | [Python](Medium/Vowel%20Spellchecker.py) |
