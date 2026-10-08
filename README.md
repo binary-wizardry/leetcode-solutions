@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-274-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-275-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -58,6 +58,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1009. | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy | [Python](Easy/Complement%20of%20Base%2010%20Integer.py) |
 | 1015. | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | Medium | [Python](Medium/Smallest%20Integer%20Divisible%20by%20K.py) |
 | 1018. | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | Easy | [Python](Easy/Binary%20Prefix%20Divisible%20By%205.py) |
+| 1021. | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [Python](Easy/Remove%20Outermost%20Parentheses.py) |
 | 1061. | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | [Python](Medium/Lexicographically%20Smallest%20Equivalent%20String.py) |
 | 1079. | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | [Python](Medium/Letter%20Tile%20Possibilities.py) |
 | 1128. | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | [Python](Easy/Number%20of%20Equivalent%20Domino%20Pairs.py) |
