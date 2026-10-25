@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-280-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-281-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -66,6 +66,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1190. | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [Python](Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py) |
 | 1200. | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | [Python](Easy/Minimum%20Absolute%20Difference.py) |
 | 1233. | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Medium | [Python](Medium/Remove%20Sub-Folders%20from%20the%20Filesystem.py) |
+| 1254. | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | [Python](Medium/Number%20of%20Closed%20Islands.py) |
 | 1266. | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | [Python](Easy/Minimum%20Time%20Visiting%20All%20Points.py) |
 | 1290. | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [Python](Easy/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) |
 | 1291. | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | [Python](Medium/Sequential%20Digits.py) |
