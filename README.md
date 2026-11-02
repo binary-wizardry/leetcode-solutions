@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-283-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-284-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -35,6 +35,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 326. | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [Python](Easy/Power%20of%20Three.py) |
 | 342. | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](Easy/Power%20of%20Four.py) |
 | 412. | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](Easy/Fizz%20Buzz.py) |
+| 462. | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | [Python](Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.py) |
 | 498. | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | Medium | [Python](Medium/Diagonal%20Traverse.py) |
 | 611. | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | [Python](Medium/Valid%20Triangle%20Number.py) |
 | 657. | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy | [Python](Easy/Robot%20Return%20to%20Origin.py) |
