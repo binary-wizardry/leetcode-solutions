@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-285-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-286-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -81,6 +81,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 1344. | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Medium | [Python](Medium/Angle%20Between%20Hands%20of%20a%20Clock.py) |
 | 1352. | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | [Python](Medium/Product%20of%20the%20Last%20K%20Numbers.py) |
 | 1356. | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Easy | [Python](Easy/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) |
+| 1385. | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | [Python](Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays.py) |
 | 1399. | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | [Python](Easy/Count%20Largest%20Group.py) |
 | 1400. | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | Medium | [Python](Medium/Construct%20K%20Palindrome%20Strings.py) |
 | 1404. | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium | [Python](Medium/Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One.py) |
