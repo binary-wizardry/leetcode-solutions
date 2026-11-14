@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-288-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-289-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -245,6 +245,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 3318. | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | Easy | [Python](Easy/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I.py) |
 | 3345. | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | [Python](Easy/Smallest%20Divisible%20Digit%20Product%20I.py) |
 | 3355. | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | [Python](Medium/Zero%20Array%20Transformation%20I.py) |
+| 3364. | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | [Python](Easy/Minimum%20Positive%20Sum%20Subarray.py) |
 | 3370. | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Easy | [Python](Easy/Smallest%20Number%20With%20All%20Set%20Bits.py) |
 | 3375. | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | Easy | [Python](Easy/Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K.py) |
 | 3379. | [Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | [Python](Easy/Transformed%20Array.py) |
