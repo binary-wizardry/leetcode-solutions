@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-291-green)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-292-green)&nbsp;
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>](https://leetcode.com/) LeetCode is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.
 
@@ -188,6 +188,7 @@ My profile: https://leetcode.com/u/binary_wizardry/
 | 2553. | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | Easy | [Python](Easy/Separate%20the%20Digits%20in%20an%20Array.py) |
 | 2559. | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | Easy | [Python](Easy/Count%20Vowel%20Strings%20in%20Ranges.py) |
 | 2566. | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | Easy | [Python](Easy/Maximum%20Difference%20by%20Remapping%20a%20Digit.py) |
+| 2567. | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | [Python](Medium/Minimum%20Score%20by%20Changing%20Two%20Elements.py) |
 | 2570. | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | Easy | [Python](Easy/Merge%20Two%202D%20Arrays%20by%20Summing%20Values.py) |
 | 2574. | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | [Python](Easy/Left%20and%20Right%20Sum%20Differences.py) |
 | 2579. | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | Medium | [Python](Medium/Count%20Total%20Number%20of%20Colored%20Cells.py) |
